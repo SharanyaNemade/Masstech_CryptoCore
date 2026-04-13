@@ -1,0 +1,102 @@
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\SharanyaNemade_DotNet\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\Masstech\CryptoCore\New folder\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\SharanyaNemade_DotNet\CryptoCore\Team1_Updated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.deps.json
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.runtimeconfig.json
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.dll
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\bin\Debug\net8.0\Team1_CryptoCore.Domain.pdb
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.AssemblyReference.cache
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfoInputs.cache
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.AssemblyInfo.cs
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.csproj.CoreCompileInputs.cache
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_Cr.6F9E43A7.Up2Date
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\refint\Team1_CryptoCore.Application.dll
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.pdb
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\Team1_CryptoCore.Application.genruntimeconfig.cache
+D:\Masstech\CryptoCore\Team1_CryptoUpdated\Team1_CryptoCore\Team1_CryptoCore.Application\obj\Debug\net8.0\ref\Team1_CryptoCore.Application.dll

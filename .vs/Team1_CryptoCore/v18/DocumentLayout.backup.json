@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|solutionrelative:team1_cryptocore.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|solutionrelative:team1_cryptocore.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|solutionrelative:team1_cryptocore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\mapping\\dtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\mapping\\dtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|solutionrelative:team1_cryptocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|solutionrelative:team1_cryptocore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|solutionrelative:team1_cryptocore.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.domain\\models\\favouritecoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|solutionrelative:team1_cryptocore.domain\\models\\favouritecoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\favouritecoindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\favouritecoindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\interface\\jwtiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\interface\\jwtiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore\\controllers\\favouritecoincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA9A236-5D94-4887-903E-BF25C7975D62}|Team1_CryptoCore\\Team1_CryptoCore.csproj|solutionrelative:team1_cryptocore\\controllers\\favouritecoincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\fetchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\fetchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340869E-6918-49D7-B49B-5492EB9F653D}|Team1_CryptoCore.Infrastructure\\Team1_CryptoCore.Infrastructure.csproj|solutionrelative:team1_cryptocore.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\usersettingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\usersettingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\interface\\iusersettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\interface\\iusersettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|d:\\masstech\\cryptocore\\team1_cryptoupdated\\team1_cryptocore\\team1_cryptocore.application\\dto\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD66C4-C450-4E36-BCAF-0CA73846914A}|Team1_CryptoCore.Application\\Team1_CryptoCore.Application.csproj|solutionrelative:team1_cryptocore.application\\dto\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T09:54:46.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Team1_CryptoCore\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T11:17:10.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAPzp15asbwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T09:31:35.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\RegisterUserDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\RegisterUserDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T09:57:15.767Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavouriteCoinController.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Controllers\\FavouriteCoinController.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore\\Controllers\\FavouriteCoinController.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Controllers\\FavouriteCoinController.cs",
+              "RelativeToolTip": "Team1_CryptoCore\\Controllers\\FavouriteCoinController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:55:58.304Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavouriteCoinDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\FavouriteCoinDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\FavouriteCoinDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\FavouriteCoinDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\FavouriteCoinDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:09:45.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T11:33:58.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:27:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOMapping.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Mapping\\DTOMapping.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\Mapping\\DTOMapping.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Mapping\\DTOMapping.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\Mapping\\DTOMapping.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:00:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserSettingDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\UserSettingDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\UserSettingDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\UserSettingDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\UserSettingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:48:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserSettingService.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\IUserSettingService.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\Interface\\IUserSettingService.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\IUserSettingService.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\Interface\\IUserSettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:40:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\appsettings.json",
+              "RelativeDocumentMoniker": "Team1_CryptoCore\\appsettings.json",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\appsettings.json",
+              "RelativeToolTip": "Team1_CryptoCore\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T14:14:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Program.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore\\Program.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore\\Program.cs",
+              "RelativeToolTip": "Team1_CryptoCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:34:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavouriteCoin.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\FavouriteCoin.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Domain\\Models\\FavouriteCoin.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\FavouriteCoin.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Domain\\Models\\FavouriteCoin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:06:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:49:14.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FetchUserDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\FetchUserDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\FetchUserDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\FetchUserDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\FetchUserDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:01:20.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:54:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtIService.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\JwtIService.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\Interface\\JwtIService.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\Interface\\JwtIService.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\Interface\\JwtIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:38:40.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:03:33.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VerifyOtpDTO.cs",
+              "DocumentMoniker": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\VerifyOtpDTO.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Application\\DTO\\VerifyOtpDTO.cs",
+              "ToolTip": "D:\\Masstech\\CryptoCore\\Team1_CryptoUpdated\\Team1_CryptoCore\\Team1_CryptoCore.Application\\DTO\\VerifyOtpDTO.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Application\\DTO\\VerifyOtpDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:03:54.161Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 628,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

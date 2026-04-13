@@ -1,0 +1,6 @@
+@Team1_CryptoCore_HostAddress = http://localhost:5216
+
+GET {{Team1_CryptoCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

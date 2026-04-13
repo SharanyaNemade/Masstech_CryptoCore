@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sachin\\OneDrive\\Desktop\\Team1_CryptoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|c:\\users\\sachin\\onedrive\\desktop\\team1_cryptocore\\team1_cryptocore.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592994E0-DEC8-4999-B6C3-2CC990DA3773}|Team1_CryptoCore.Domain\\Team1_CryptoCore.Domain.csproj|solutionrelative:team1_cryptocore.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sachin\\OneDrive\\Desktop\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Team1_CryptoCore.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sachin\\OneDrive\\Desktop\\Team1_CryptoCore\\Team1_CryptoCore.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Team1_CryptoCore.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:33:17.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

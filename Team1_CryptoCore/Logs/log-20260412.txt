@@ -1,0 +1,23 @@
+2026-04-12 10:58:11.180 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-04-12 10:58:12.342 +05:30 [INF] Quartz Scheduler created
+2026-04-12 10:58:12.344 +05:30 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2026-04-12 10:58:12.345 +05:30 [INF] RAMJobStore initialized.
+2026-04-12 10:58:12.346 +05:30 [INF] Quartz Scheduler 3.17.1.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-04-12 10:58:12.347 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-04-12 10:58:12.348 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-04-12 10:58:12.390 +05:30 [INF] Adding 1 jobs, 1 triggers.
+2026-04-12 10:58:12.394 +05:30 [INF] Adding job: DEFAULT.CoinMarketJob
+2026-04-12 10:58:19.437 +05:30 [INF] Now listening on: https://localhost:7282
+2026-04-12 10:58:19.440 +05:30 [INF] Now listening on: http://localhost:5216
+2026-04-12 10:58:20.285 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-12 10:58:20.287 +05:30 [INF] Hosting environment: Development
+2026-04-12 10:58:20.288 +05:30 [INF] Content root path: D:\Masstech\CryptoCore\Team1_CryptoCore\Team1_CryptoCore
+2026-04-12 10:58:20.369 +05:30 [INF] Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2026-04-12 10:58:47.471 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7282/swagger/index.html - null null
+2026-04-12 10:58:49.659 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7282/swagger/index.html - 200 null text/html;charset=utf-8 2274.0569ms
+2026-04-12 10:58:49.984 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7282/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-12 10:58:49.984 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7282/_vs/browserLink - null null
+2026-04-12 10:58:50.001 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7282/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 17.0985ms
+2026-04-12 10:58:51.148 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7282/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1164.2677ms
+2026-04-12 10:58:51.333 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7282/swagger/v1/swagger.json - null null
+2026-04-12 10:58:51.526 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7282/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 193.2258ms
